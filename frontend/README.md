@@ -1,16 +1,26 @@
-# React + Vite
+What is AI powered:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-powered" means a product, app, or system uses artificial intelligence (AI) to perform tasks that normally require human intelligence, such as understanding language, recognizing patterns, making predictions, or learning from data.
 
-Currently, two official plugins are available:
+For example:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+AI-powered chatbot: Answers questions and has conversations, like ChatGPT.
+AI-powered camera: Automatically detects faces, adjusts lighting, or enhances photos.
+AI-powered email: Suggests replies, summarizes long messages, or filters spam.
+AI-powered car: Helps with lane keeping, parking, or detecting obstacles.
+How it works
 
-## React Compiler
+Most AI-powered systems:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Take in data (text, images, audio, etc.).
+Analyze it using AI models trained on large amounts of data.
+Produce an output, such as an answer, recommendation, prediction, or action.
+Example
 
-## Expanding the ESLint configuration
+A traditional calculator only follows fixed rules you enter.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+An AI-powered calculator could:
+
+Understand questions like "What's a 20% tip on a $75 bill?"
+Explain the calculation.
+Learn your preferences over time.
