@@ -73,6 +73,14 @@ Simple definition
 
 AI = Making machines capable of performing tasks that normally require human intelligence.
 
+How to work Intelligence?
+1.observe
+2.understand
+3.learn
+4.decide 
+5.act
+
+
 Examples of AI
 🤖 ChatGPT → understands questions and generates answers.
 📱 Face recognition → identifies people from images.
